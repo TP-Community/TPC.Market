@@ -1,0 +1,11 @@
+H:\VS Projects\EzCar2\YourName.YourPlugin\bin\Debug\YourName.YourPlugin.dll
+H:\VS Projects\EzCar2\YourName.YourPlugin\bin\Debug\YourName.YourPlugin.pdb
+H:\VS Projects\EzCar2\YourName.YourPlugin\bin\Debug\ECMU.Interface.dll
+H:\VS Projects\EzCar2\YourName.YourPlugin\bin\Debug\ECMU.Interface.pdb
+H:\VS Projects\EzCar2\YourName.YourPlugin\obj\Debug\YourName.YourPlugin.csprojAssemblyReference.cache
+H:\VS Projects\EzCar2\YourName.YourPlugin\obj\Debug\YourName.YourPlugin.Form1.resources
+H:\VS Projects\EzCar2\YourName.YourPlugin\obj\Debug\YourName.YourPlugin.csproj.GenerateResource.cache
+H:\VS Projects\EzCar2\YourName.YourPlugin\obj\Debug\YourName.YourPlugin.csproj.CoreCompileInputs.cache
+H:\VS Projects\EzCar2\YourName.YourPlugin\obj\Debug\YourName.YourPlugin.csproj.CopyComplete
+H:\VS Projects\EzCar2\YourName.YourPlugin\obj\Debug\YourName.YourPlugin.dll
+H:\VS Projects\EzCar2\YourName.YourPlugin\obj\Debug\YourName.YourPlugin.pdb

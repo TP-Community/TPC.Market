@@ -1,0 +1,12 @@
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\bin\Release\Creaous.ExamplePlugin.dll
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\bin\Release\Creaous.ExamplePlugin.pdb
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\bin\Release\ECMU.Interface.dll
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\bin\Release\ECMU.Interface.pdb
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\obj\Release\Creaous.ExamplePlugin.csprojAssemblyReference.cache
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\obj\Release\Creaous.ExamplePlugin.csproj.GenerateResource.cache
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\obj\Release\Creaous.ExamplePlugin.csproj.CoreCompileInputs.cache
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\obj\Release\Creaous.ExamplePlugin.csproj.CopyComplete
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\obj\Release\Creaous.ExamplePlugin.dll
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\obj\Release\Creaous.ExamplePlugin.pdb
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\obj\Release\Creaous.ExamplePlugin.Form1.resources
+H:\VS Projects\EzCar2\Creaous.ExamplePlugin\obj\Release\Creaous.ExamplePlugin.Form2.resources
